@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @offical-Cromatin
 - 👀 I’m interested in ... Discord Bots, and other Stuff
-- 🌱 I’m currently learning ... Nothing yet
+- 🌱 I’m currently learning ... Java
 - 📫 How to reach me ... Write me an DM at Discord (Cromatin#6716)
